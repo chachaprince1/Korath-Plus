@@ -2,20 +2,21 @@
 
 ## 🎮 Want to play the game?
 
-[**⬇️ DOWNLOAD THE PLAYABLE GAME: Korath-Plus-best-so-far.zip (879 MB)**](https://github.com/chachaprince1/Korath-Plus/releases/download/v0.1.0/Korath-Plus-best-so-far.zip)
+[**⬇️ DOWNLOAD THE PLAYABLE GAME: Korath Plus v0.1.1 (883 MB)**](https://github.com/chachaprince1/Korath-Plus/releases/download/v0.1.1/PLAYABLE-GAME-Korath-Plus-v0.1.1.zip)
 
-**This is the complete playable game and the only file most people need.**
+**This is the complete playable game and the only file most people need.** Version 0.1.1 contains 12,318 selectable cards, artwork for every supported addition, the latest confirmed fixes, corrected rarity tags, and fullscreen by default.
 
 1. Download the ZIP from the large link above.
-2. Extract the entire ZIP into a writable Windows folder.
-3. Run `Play Shandalar.cmd`.
-4. If it does not open, run `Diagnose Shandalar.cmd`.
+2. Right-click the ZIP, choose **Properties**, and select **Unblock** if Windows shows that option.
+3. Extract the entire ZIP into a writable Windows folder.
+4. Run `Play Shandalar.cmd`.
+5. If it does not open, run `Diagnose Shandalar.cmd`.
 
-> Do not use GitHub’s green **Code → Download ZIP** button to get the game. This repository page only directs you to the downloadable release.
+> Do not use GitHub's green **Code → Download ZIP** button to get the game. This repository page only directs you to the downloadable release.
 
-[Read the full release notes](https://github.com/chachaprince1/Korath-Plus/releases/tag/v0.1.0)
+[Read the v0.1.1 release notes](https://github.com/chachaprince1/Korath-Plus/releases/tag/v0.1.1)
 
-Korath Plus expands Korath’s original-engine Shandalar build with additional cards, supported mechanics, artwork, bug fixes, and modern-Windows reliability improvements.
+Korath Plus expands Korath's original-engine Shandalar build with additional cards, supported mechanics, artwork, bug fixes, and modern-Windows reliability improvements.
 
 <details>
 <summary><strong>Developers and AI collaborators only — click to open</strong></summary>
